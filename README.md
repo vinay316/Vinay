@@ -25,8 +25,8 @@ Jupyter Notebook
 
 🌐 Socials:
 
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/vinay-kumar-495115104/
 
 🖥️ Tech Stack:
 
-Azure | Python | Anaconda | Apache Spark | Apache Airflow | MySQL | Microsoft SQL Server | Pandas | NumPy | Git | GitHub
+Python | Snowfalke | Power BI | Alteryx | MySQL | Microsoft SQL Server | Pandas | NumPy | Git | GitHub
